@@ -1,0 +1,39 @@
+{
+   "success":true,
+   "message":"8 products found",
+   "http_status":200,
+   "data":{
+      "products":{
+         "id":[
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+         ],
+         "guideline_name":[
+            "loading coil in truck",
+            "Steel Coil Nightmare",
+            "Secure a Shotgun Coil",
+            "Secure a Suicide Coil with 8 Chains",
+            "Heavy duty forklifts on coil loading & unloading",
+            "Prime Inc Flatbed",
+            "forklifts on coil LOADING",
+            "Removing lid off coil car"
+         ],
+         "guideline_url":[
+            "https://www.youtube.com/watch?v=jaPMu79dRwo&t=17s",
+            "https://www.youtube.com/watch?v=leaIzo_boi4",
+            "https://www.youtube.com/watch?v=Ymk_Pce29uA&t=72s",
+            "https://www.youtube.com/watch?v=SpeudJLyEJw",
+            "https://www.youtube.com/watch?v=6MCHhf3xTnU",
+            "https://www.youtube.com/watch?v=z4euuH2VwYo",
+            "https://www.youtube.com/watch?v=Fc-Xbi3avHM",
+            "https://www.youtube.com/watch?v=OKG6AW4VIq8"
+         ]
+      }
+   }
+}
